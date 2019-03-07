@@ -1,5 +1,5 @@
-// @Author zhangyiming
-// @Email 446833579@qq.com
+// @Author ZYM
+//
 #include "Timer.h"
 #include <sys/time.h>
 #include <unistd.h>

@@ -1,5 +1,5 @@
-// @Author zhangyiming
-// @Email 446833579@qq.com
+// @Author ZYM
+//
 #include "FileUtil.h"
 #include <assert.h>
 #include <errno.h>

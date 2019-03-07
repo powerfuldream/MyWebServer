@@ -1,5 +1,5 @@
-// @Author zhangyiming
-// @Email 446833579@qq.com
+// @Author ZYM
+//
 #pragma once
 #include "Channel.h"
 #include "HttpData.h"

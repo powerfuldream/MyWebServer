@@ -1,5 +1,5 @@
-// @Author zhangyiming
-// @Email 446833579@qq.com
+// @Author ZYM
+//
 #include "Epoll.h"
 #include "Util.h"
 #include "base/Logging.h"

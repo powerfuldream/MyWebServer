@@ -1,5 +1,5 @@
-// @Author zhangyiming
-// @Email 446833579@qq.com
+// @Author ZYM
+//
 #pragma once
 #include "Condition.h"
 #include "MutexLock.h"

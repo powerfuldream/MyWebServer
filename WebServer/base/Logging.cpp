@@ -1,5 +1,5 @@
-// @Author zhangyiming
-// @Email 446833579@qq.com
+// @Author ZYM
+//
 #include "Logging.h"
 #include "CurrentThread.h"
 #include "Thread.h"

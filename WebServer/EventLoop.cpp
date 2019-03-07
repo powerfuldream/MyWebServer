@@ -1,5 +1,5 @@
-// @Author zhangyiming
-// @Email 446833579@qq.com
+// @Author ZYM
+//
 #include "EventLoop.h"
 #include "base/Logging.h"
 #include "Util.h"
